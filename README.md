@@ -1,3 +1,48 @@
+# 项目精选
+
+按 Star 从高到低排列 · 更新于 2026-10-28 · [查看全部项目](https://github.com/jinhanbuilds?tab=repositories)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/jinhanbuilds/hoist-the-elephant">Hoist the Elephant</a></h3>
+<p>长对话被局部修正带偏时，找回真正的目标和已经形成的共识。</p>
+<p><a href="https://github.com/jinhanbuilds/hoist-the-elephant/stargazers">⭐ 102</a> · Agent Skill</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/jinhanbuilds/bushiershi">不是而是</a></h3>
+<p>清理中文成稿里的空话、套话和模型写作习惯，保留原意与事实边界。</p>
+<p><a href="https://github.com/jinhanbuilds/bushiershi/stargazers">⭐ 63</a> · Agent Skill</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/jinhanbuilds/opus-5-5-unified-gallery">Opus 5.5 统一效果图鉴</a></h3>
+<p>218 个主题、222 个演示版本。找效果、看演示，读提示词与技法拆解。</p>
+<p><a href="https://github.com/jinhanbuilds/opus-5-5-unified-gallery/stargazers">⭐ 46</a> · 案例图鉴</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/jinhanbuilds/brief-me">Brief Me</a></h3>
+<p>把一墙分析变成可以交互的决策汇报，看清关系、比较方案。</p>
+<p><a href="https://github.com/jinhanbuilds/brief-me/stargazers">⭐ 37</a> · Agent Skill</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/jinhanbuilds/motion-lexicon">动效词典 · Motion Lexicon</a></h3>
+<p>75 个实时演示关键词、10 套场景配方，把想做的动效写成中英文提示词。</p>
+<p><a href="https://github.com/jinhanbuilds/motion-lexicon/stargazers">⭐ 6</a> · 动效与提示词工具</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/jinhanbuilds/wish-pool">Wish Pool · 许愿池</a></h3>
+<p>把散落的灵感接成同一张卡，在不同 Agent Session 之间找回、更新并继续推进。</p>
+<p><a href="https://github.com/jinhanbuilds/wish-pool/stargazers">⭐ 3</a> · Agent Skill / 可视化看板</p>
+</td>
+</tr>
+</table>
+
+---
+
 # 你好，我是金翰。
 
 我是一名 AI builder，也是一家 AI-native startup 的 Founder。
@@ -10,7 +55,7 @@ Coding 领域已经有越来越多公开、可复用的 Agent 工作方式。可
 
 ## 从这里开始
 
-目前公开、可以直接使用的入口有五个：
+下面是五个 Agent Skills 的具体用法：
 
 - **[Hoist the Elephant](https://github.com/jinhanbuilds/hoist-the-elephant)**：长对话被一轮轮局部修正带偏时，它会先停下当前惯性，重新找回用户真正要完成的事和已经形成的共识，再交给用户确认；只在明确调用时启动。
 - **[不是而是](https://github.com/jinhanbuilds/bushiershi)**：只在明确调用时修改中文成稿，清理模型常见的空话、套话和写作动作，同时保留原有事实、程度、归因和不确定性。
@@ -93,7 +138,7 @@ This perspective comes from eight years in strategy consulting. As a partner, I 
 
 ### Start here
 
-Five Agent Skills are currently public and ready to use:
+Here is how to use five of the public Agent Skills:
 
 - **[Hoist the Elephant](https://github.com/jinhanbuilds/hoist-the-elephant)** — When repeated local corrections pull a long conversation off course, it stops the current momentum, recovers the user’s real objective and accumulated understanding, and hands that mainline back for confirmation. It runs only when explicitly invoked.
 - **[不是而是](https://github.com/jinhanbuilds/bushiershi)** — Edits Chinese final copy only when explicitly invoked, removing recurring model-written filler and writing habits while preserving facts, degree, attribution, and genuine uncertainty.
